@@ -2,9 +2,9 @@
 Class Database{
 	/* Database connection start */
 	var $host = "localhost";
-	var $username = "tripaide_banesob";
-	var $password = "Na384908";
-	var $db_name = "tripaide_recordset";
+	var $username = "banes";
+	var $password = "123456";
+	var $db_name = "tripaide";
 	var $conn;
 	public function getConnection(){
  
